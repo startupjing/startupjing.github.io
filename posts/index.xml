@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>startupjing.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 May 2021 21:53:07 -0700</lastBuildDate><atom:link href="startupjing.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>startupjing.github.io/posts/second-post/</link>
+      <pubDate>Sun, 30 May 2021 21:53:07 -0700</pubDate>
+      
+      <guid>startupjing.github.io/posts/second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>startupjing.github.io/posts/first-post/</link>
+      <pubDate>Sun, 30 May 2021 21:52:29 -0700</pubDate>
+      
+      <guid>startupjing.github.io/posts/first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
